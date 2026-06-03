@@ -1,0 +1,1 @@
+python ./video_derain.py --load_name "./models/models_rain100H/KPN_rainy_image_epoch600_bs16.pth" --input_video "test_video3.mp4" --output_video "derained_epoch600_output3.avi" --split_view True
